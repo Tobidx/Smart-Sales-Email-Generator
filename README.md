@@ -6,7 +6,7 @@ Link: https://huggingface.co/spaces/Tobidx/sales-email-generator
 
 ## AI Tools & Technologies
 - RAG (Retrieval Augmented Generation) Implementation:
-  * Vector Store: ChromaDB for email template storage
+
   * Embeddings: HuggingFace Sentence Transformers
   * Similarity Search for context retrieval
 - LangChain for orchestrating the RAG pipeline
