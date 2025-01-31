@@ -1,0 +1,6 @@
+gradio
+langchain
+transformers
+torch
+emoji
+huggingface_hub
