@@ -1,6 +1,8 @@
 # Smart Sales Email Generator
 
-An AI-powered tool that generates contextual and professional follow-up emails based on previous customer interactions, using RAG and sentiment analysis.
+An AI-powered tool that generates contextual and professional follow-up emails based on previous customer interactions, using LangChain, RAG and sentiment analysis.
+
+Link: https://huggingface.co/spaces/Tobidx/sales-email-generator
 
 ## AI Tools & Technologies
 - RAG (Retrieval Augmented Generation) Implementation:
@@ -32,7 +34,7 @@ An AI-powered tool that generates contextual and professional follow-up emails b
 - API integration (Hugging Face Hub)
 - Web application development
 - Machine Learning model deployment
-- GPU acceleration support
+- GPU acceleration support 
 - Error handling and input validation
 
 ## Architecture
@@ -55,18 +57,11 @@ An AI-powered tool that generates contextual and professional follow-up emails b
 - Product Query Responses
 - General Business Communication
 
-## How to Use
-1. Enter the previous customer interaction
-2. Select the situation type from available options
-3. Choose tone (optional - will be automatically detected)
-4. Set urgency level (High/Medium/Low)
-5. Submit to generate a professional follow-up email with quality score
-
 
 ## Development Stack
 - Python 3.x
 - LangChain Framework
-- ChromaDB
+- RAG
 - HuggingFace Transformers
 - Gradio UI Framework
 - CUDA support for GPU acceleration
@@ -77,7 +72,7 @@ An AI-powered tool that generates contextual and professional follow-up emails b
 - Response time optimization
 - Direct email system integration
 - Analytics and tracking capabilities
-- Enhanced scoring system
+  
 
 ## License
 MIT License
