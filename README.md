@@ -59,7 +59,7 @@ Link: https://huggingface.co/spaces/Tobidx/sales-email-generator
 
 
 ## Development Stack
-- Python 3.x
+- Python 
 - LangChain Framework
 - RAG
 - HuggingFace Transformers
